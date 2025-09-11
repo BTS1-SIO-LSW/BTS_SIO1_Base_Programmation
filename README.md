@@ -1,4 +1,4 @@
-# BTS SIO 2 Base Programmation
+# BTS SIO 1 Base Programmation
 
 ## Table des matières
 - [Introduction](#introduction)
