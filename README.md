@@ -8,6 +8,7 @@
     - [Les opérateurs de comparaison et les opérateurs logiques](#les-operateurs-de-comparaison-et-les-opérateurs_logiques)
     - [Les structures conditionnelles](#les-structures-conditionnelles)
     - [Les structures itératives](#les-structures-itératives)
+    - [Les listes](#les-listes)
     
 - [Exercices](#exercices)
 
@@ -36,6 +37,8 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
     - [Cours à lire absolument](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles.pdf) | [Support exécutable](01_cours/demos/04_struct_conditionnelles/04_struct_conditionnelles_VERSION_MODIFIABLE_EXECUTABLE_mise_a_jour_le_23_09_2025.py)
   - Les structures itératives : 
     - [Cours à lire absolument](01_cours/demos/05_struct_iteratives/05_struct_iteratives.pdf) | [Support exécutable](01_cours/demos/05_struct_iteratives/05_struct_iteratives_MODIFIABLE_EXECUTABLE.py)
+  - Les listes : 
+    - [Cours à lire absolument](01_cours/demos/06_listes/06_listes.pdf) | [Support exécutable](01_cours/demos/06_listes/06_listes_MODIFIABLE_EXECUTABLE.py)
 
 ## Exercices
 
