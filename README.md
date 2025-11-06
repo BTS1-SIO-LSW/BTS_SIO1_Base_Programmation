@@ -9,6 +9,7 @@
     - [Les structures conditionnelles](#les-structures-conditionnelles)
     - [Les structures itératives](#les-structures-itératives)
     - [Les listes](#les-listes)
+    - [Les dictionnaires et les fichiers .json](#les-dictionnaires-et-les-fichiers-json)
     
 - [Exercices](#exercices)
 
@@ -38,7 +39,10 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
   - Les structures itératives : 
     - [Cours à lire absolument](01_cours/demos/05_struct_iteratives/05_struct_iteratives.pdf) | [Support exécutable](01_cours/demos/05_struct_iteratives/05_struct_iteratives_MODIFIABLE_EXECUTABLE.py)
   - Les listes : 
-    - [Cours à lire absolument](01_cours/demos/06_listes/06_listes.pdf) | [Support exécutable](01_cours/demos/06_listes/06_listes_MODIFIABLE_EXECUTABLE.py)
+    - [Cours à lire absolument](01_cours/demos/07_dictionnaires_et_fichiers_json/06_listes.pdf) | [Support exécutable](01_cours/demos/06_listes/06_listes_MODIFIABLE_EXECUTABLE.py)
+  - Les dictionnaires et les fichiers .json : 
+    - [Cours à lire absolument](01_cours/demos/07_dictionnaires_et_fichiers_json/07_dictionnaires_et_fichiers_json.pdf) | [Support exécutable](01_cours/demos/07_dictionnaires_et_fichiers_json/07_les_dict_MODIFIABLE_EXECUTABLE.py) | [Support exécutable](01_cours/demos/07_dictionnaires_et_fichiers_json/07_manip_json_MODIFIABLE_EXECUTABLE.py)
+
 
 ## Exercices
 
