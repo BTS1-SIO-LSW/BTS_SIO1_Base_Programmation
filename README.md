@@ -11,7 +11,8 @@
     - [Les listes](#les-listes)
     - [Les dictionnaires et les fichiers .json](#les-dictionnaires-et-les-fichiers-json)
     - [Les fichiers .csv](#les-fichiers-csv)
-    
+    - [Les sets .csv](#les-sets)
+
 - [Exercices](#exercices)
 
 - [Utilisation](#utilisation)
@@ -45,7 +46,8 @@ L’objectif est de vous fournir un support progressif vous permettant d’acqu�
     - [Cours à lire absolument](01_cours/demos/07_dictionnaires_et_fichiers_json/07_dictionnaires_et_fichiers_json.pdf) | [Support exécutable](01_cours/demos/07_dictionnaires_et_fichiers_json/07_les_dict_MODIFIABLE_EXECUTABLE.py) | [Support exécutable](01_cours/demos/07_dictionnaires_et_fichiers_json/07_manip_json_MODIFIABLE_EXECUTABLE.py)
   - Les fichiers .csv : 
     - [Cours à lire absolument](01_cours/demos/08_fichiers_csv/08_fichiers_csv.pdf) | [Support exécutable](01_cours/demos/08_fichiers_csv/08_fichiers_csv_version_modifiable_executable.py)
-
+  - Les sets : 
+    - [Cours à lire absolument](01_cours/demos/09_sets/09_sets.pdf) | [Support exécutable](01_cours/demos/09_sets/09_sets_version_executable.py)
 
 ## Exercices
 
