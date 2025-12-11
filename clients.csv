@@ -1,0 +1,4 @@
+id;nom;email;ville;age;mot_cle;prix;actif
+1;Martin;martin@example.com;Paris;35; Python course ;19.99;true
+2;Nicole;nicole@example.com;Lyon;22;csv   tutorial;9.5;false
+3;Dupont;dupont@example.com;Paris;45;  PYTHON CSV ;29.0;true
